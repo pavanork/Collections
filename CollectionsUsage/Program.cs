@@ -10,6 +10,8 @@ namespace CollectionsUsage
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!! Lets Learn.....");
+            Console.ReadLine();
         }
     }
 }
